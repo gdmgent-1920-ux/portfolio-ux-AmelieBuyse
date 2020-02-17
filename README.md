@@ -1,8 +1,8 @@
 # UX portfolio template 1920
 
-## Name:
+## Name: Amelie Buyse
 
-## Group:
+## Group: 1AVDa
 
 ## Getting Started
 
